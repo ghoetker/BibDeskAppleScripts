@@ -7,7 +7,7 @@
 
 * In Hazel, I have this action set to trigger on files
 
- ![Hazel rules](Hazel rules.png) 
+ [Hazel rules](Hazel rules.png) 
 
 The embedded script in the conditions is a one-liner:
 
