@@ -8,6 +8,8 @@ Some of the scripts are also dependent on
 
 Also, of course, you'll need to edit paths to reflect wherever you've stored your bibliography.bib file.
 
+Many thanks to everyone else who has written Applescripts. Actually seeing something in practice makes all the difference when it comes to writing scripts.
+
 # Included scripts
 
 Not so many yet, but I'll add more over time.
