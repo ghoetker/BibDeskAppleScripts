@@ -18,3 +18,7 @@ Not so many yet, but I'll add more over time.
 
 * Import PDFs from folder.applescript
 * Import bib files from folder.applescript
+
+## Complete bibliographic information
+* Find DOI
+* Fill according to DOI
