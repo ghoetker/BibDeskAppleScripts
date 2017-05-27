@@ -18,6 +18,7 @@ Not so many yet, but I'll add more over time.
 
 * Import PDFs from folder.applescript
 * Import bib files from folder.applescript
+* Import items from import folder (manually triggers the functionality of the two scripts above)
 
 ## Complete bibliographic information
 * Find DOI
