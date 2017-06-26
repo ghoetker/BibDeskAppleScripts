@@ -8,6 +8,10 @@ Filling in the rest of a bibliographic entry given a DOI.
 
 I will often fill in part of the Author and Title fields (perhaps copying from a PDF I've imported) and then run my "Find DOI" script. Assuming it finds a DOI, I will then run this script.  Viola -- a full entry with minimal typing.
 
+# LIMITATIONS #
+
+This script uses BibDesk's own importing functionality (I think it is essentially what you would get if you had the DOI in your clipboard and selected the Publication/New Publication from Clipboard menu item).  This may fail if the entry being returned is malformed (from BibDesk's perspective).
+
 
 # CAUTIONS #
 
