@@ -1,4 +1,4 @@
-# Description and use #
+# DESCRIPTION AND USE #
 
 Filling in the rest of a bibliographic entry given a DOI.
 

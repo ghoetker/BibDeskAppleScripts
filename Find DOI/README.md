@@ -1,4 +1,4 @@
-# Description and use #
+# DESCRIPTION AND USE #
 
 Used for finding DOI entries.  
 
@@ -10,7 +10,7 @@ Used for finding DOI entries.
 
 I will often fill in part of the Author and Title fields (perhaps copying from a PDF I've imported) and then run this script. Assuming it finds a DOI, I will then run my "Fill according to DOI" script.  Viola -- a full entry with minimal typing.
 
-# Requirement
+# REQUIREMENTS
 
 * JSON Helper for AppleScript <https://itunes.apple.com/us/app/json-helper-for-applescript/id453114608?mt=12>
 * Satimage.osax <http://www.satimage.fr/software/en/downloads/downloads_companion_osaxen.html>
