@@ -34,7 +34,7 @@ end tell
 on urlEncode(str)
 	local str
 	try
-		return (do shell script "/bin/echo " & quoted form of str & Â¬
+		return (do shell script "/bin/echo " & quoted form of str & Â
 			" | perl -MURI::Escape -lne 'print uri_escape($_)'")
 	on error eMsg number eNum
 		error "Can't urlEncode: " & eMsg number eNum
