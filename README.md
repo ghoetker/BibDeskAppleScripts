@@ -1,3 +1,6 @@
+**_Unfortunately, changes made in Mojave have crippled access to the Satimage.osax, which is a dependency for most of these scripts. It is unclear when I'll have time to rewrite them. So, for the moment, they are probably unfunctional and you should have no expectation for when they'll fixed. Trust me, I'm as bummed as you are about this. Feel free to fork the project if you are so motivated._**
+
+
 # BibDeskAppleScripts
 A collection of Applescripts to assist with BibDesk. Some are meant to also work with Hazel <https://www.noodlesoft.com>. Some are dependent on how I have my BibDesk preferences set up, but I hope some people will find them helpful.
 
