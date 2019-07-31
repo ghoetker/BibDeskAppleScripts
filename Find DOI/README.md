@@ -17,4 +17,4 @@ I will often fill in part of the Author and Title fields (perhaps copying from a
 
 Also, of course, you'll need to edit paths to reflect wherever you've stored your bibliography.bib file.
 
-Many thanks to everyone else who has written Applescripts. Actually seeing something in practice makes all the difference when it comes to writing scripts.
+Many thanks to everyone else who has written Applescripts. Actually seeing something in practice makes all the difference when it comes to writing scripts. 

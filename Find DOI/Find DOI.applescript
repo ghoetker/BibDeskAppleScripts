@@ -1,5 +1,5 @@
 use BibDesk : application "BibDesk"
-use scripting additions
+use scripting additions 
 
 tell BibDesk
 	activate
